@@ -30,9 +30,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arun6381&label=Profile%20views&color=0e75b6&style=flat" alt="arun6381" /> </p>
 - 🌱 I’m currently learning **Backend and Docker**
 
-- 👨‍💻 All of my projects are available at [https://arunportfolio-git-main-arun6381s-projects.vercel.app/](https://arunportfolio-git-main-arun6381s-projects.vercel.app/)
-
-- 📝 I regularly write articles on [https://blog-use-context-faker.vercel.app/](https://blog-use-context-faker.vercel.app/)
+- 👨‍💻 My portfolio [https://arunportfolio-git-main-arun6381s-projects.vercel.app/](https://arunportfolio-git-main-arun6381s-projects.vercel.app/)
 
 - 💬 Ask me about **React, Frontend, Redux, Node, Express, and MangoDB**
 
