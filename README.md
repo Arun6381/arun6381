@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
 </a>
 </div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arun6381&label=Profile%20views&color=0e75b6&style=flat" alt="arun6381" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=arun6381&label=Profile%20views&color=0e75b6&style=flat" alt="arun6381" /> </p> -->
 - 🌱 I’m currently learning **Backend and Docker**
 
 - 👨‍💻 My portfolio [https://arunportfolio-git-main-arun6381s-projects.vercel.app/](https://arunportfolio-git-main-arun6381s-projects.vercel.app/)
