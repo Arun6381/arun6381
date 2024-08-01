@@ -45,7 +45,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arun6381&show_icons=true&locale=en&layout=compact&bg_color=000000&text_color=FFFFFF" alt="Top Languages" />
 </p>
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arun6381&background=FFFFFF&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF" alt="GitHub Streak" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arun6381&background=000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF" alt="GitHub Streak" />
 </p>
 
 <!-- BLOG-POST-LIST:END -->
