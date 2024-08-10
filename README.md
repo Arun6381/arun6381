@@ -1,7 +1,7 @@
 <!-- BLOG-POST-LIST:START -->
 
 <h1 align="center">Hi 👋, I'm Arun kumar</h1>
-![run](https://media0.giphy.com/media/WfwzZpfH8Ejra/giphy.gif)
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
