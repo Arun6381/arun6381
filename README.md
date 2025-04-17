@@ -32,7 +32,7 @@
 
 - 👨‍💻 My portfolio [https://arunportfolio-git-main-arun6381s-projects.vercel.app/](https://arunportfolio-git-main-arun6381s-projects.vercel.app/)
 
-- 💬 Ask me about **React, Frontend, Redux, Node, Express, and MangoDB**
+- 💬 Ask me about **React, Angular, .NET, ASP.NET, MAUI, SQL, Node, Express, MongoDB**
 
 - 📫 How to reach me **arunkumargobi12@gmail.com**
 
